@@ -1,0 +1,9 @@
+# NPM packages
+/node_modules/
+
+# Typings
+/typings/
+
+# Build files
+/source/**/*.js
+/source/**/*.js.map
